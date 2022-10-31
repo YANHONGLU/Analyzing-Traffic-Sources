@@ -1,4 +1,10 @@
+
+
 # Analyzing-Traffic-Sources
+
+
+
+
 
 
 1) Object:
@@ -12,6 +18,9 @@
 
 3）Dataset:
 
+FILE: create_mavenfuzzyfactory.sql
+
+https://mavenanalytics-my.sharepoint.com/personal/aaron_mavenanalytics_onmicrosoft_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Faaron%5Fmavenanalytics%5Fonmicrosoft%5Fcom%2FDocuments%2FAdvanced%20SQL%20%2B%20MySQL%20for%20Analytics%20%26%20Business%20Intelligence&ga=1
 
 
  <img width="384" alt="image" src="https://user-images.githubusercontent.com/74843963/198989238-af71d7fd-1b9e-446f-8f5d-71d2e71d3ae1.png">
@@ -61,7 +70,8 @@ Task5:Adguested Gsearch device-level trends(Check):pull weekly trends for both d
 <img width="253" alt="image" src="https://user-images.githubusercontent.com/74843963/198990700-5c11f392-f5aa-423c-9d66-8241a9b4b433.png">
 
 
-6) Challenge: Massive dateset
+
+6）Challenge: Massive dateset
 
 The create_mavenfuzzyfactory.sql file that going to be running is pretty big and experience issues running this file due to their default max_allowed_packet setting.
 
